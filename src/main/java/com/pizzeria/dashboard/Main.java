@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-<<<<<<< HEAD
         /* REGLAS DE NOMENCLATURA EN JAVA
             - Clases: PascalCase  →  Ej: UsuarioController
             - Métodos: camelCase  →  Ej: obtenerDatos()
@@ -43,10 +42,6 @@ public class Main {
             estudiar este tipo de proyecto. Vas a ver que es un poco más
             flexible a la hora del back-end.
         */
-            
-=======
-        
->>>>>>> c656b87 (Update Main.java)
     }
 }
 
